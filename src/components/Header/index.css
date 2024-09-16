@@ -1,0 +1,32 @@
+.bg-container-nav-bar {
+  display: flex;
+  background-color: #272727;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  font-family: 'roboto';
+}
+.img-logo {
+  width: 100px;
+  height: 50px;
+}
+.list-home-jobs {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  font-size: 15px;
+  color: white;
+  width: 200px;
+}
+.logout-button {
+  width: 150px;
+  height: 30px;
+  background-color: #4f46e5;
+  color: white;
+  border-radius: 5px;
+  border-style: none;
+}
+.link-text{
+  text-decoration: none;
+}
